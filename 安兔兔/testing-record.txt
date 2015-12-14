@@ -8,7 +8,7 @@
 测试硬件环境: 
 Lenovo thinkpad
 MEM: 8GB 
-CPU: i7-4710MQ 
+CPU: i5-vPro 
 
  
 软件测试环境： 
