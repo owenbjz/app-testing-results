@@ -1,0 +1,21 @@
+测试时间: 
+2015-12-14 
+ 
+测试APP: 
+安兔兔
+
+ 
+测试硬件环境: 
+Lenovo thinkpad
+MEM: 8GB 
+CPU: i7-4710MQ 
+
+ 
+软件测试环境： 
+1 android-x86-5.1 with linux kernel 4.0.9 
+2 android-x86-5.1 with linux kernel 4.4-rc4 
+
+ 
+测试结果: 
+在1测试环境，安兔兔可以进行3D测试；
+在2测试环境,安兔兔不能进行3D测试，可以进行CPU和内存性能测试。 
