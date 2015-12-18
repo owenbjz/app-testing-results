@@ -1,0 +1,10 @@
+第一步：硬件要求：Intel vt-d 
+	BIOS中需要将Intel vt-d设置为enable
+	需要两个monitor或者一个monitor有两个input
+
+第二步：在Linux系统需要配置 /etc/default/grub intel_iommu=on 
+
+第三步：将host上的设备先unbind，然后把设备分配给guest
+lspci -vnn命令查看GPU设备的号码
+
+后面的过程还没尝试
